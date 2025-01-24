@@ -11,7 +11,13 @@ SQL, Python, Pandas, Power BI, MySQL, Streamlit.
 
 
 # About Me:
-🎓 Education: MCA from Sinhgad Institute of Business Administration and Research, Pune
+🎓 Education: 
+
+MCA from Sinhgad Institute of Business Administration and Research, Pune
+
+B Sc from 
+Bundelkhand University ,Jhansi
+
 🔍 A dynamic Data Analyst skilled in SQL and Python with a knack for creating insightful visualizations and dashboards.
 🤖 Experienced in leveraging Generative AI and quickly adapting to new technologies to drive impactful business strategies.
 🌟 Strong problem-solving and communication skills, fostering collaboration across teams.
@@ -21,9 +27,9 @@ SQL, Python, Pandas, Power BI, MySQL, Streamlit.
 # My Tech Stack:
 
 Languages: Python, SQL
-Libraries/Tools: Pandas, NumPy, Seaborn, Matplotlib, Streamlit
+Libraries/Tools:Pandas, NumPy, Seaborn, Matplotlib, Streamlit
 Visualization: Power BI, Excel
-Other Skills: ETL, Data Models, EDA
+Other Skills:ETL, Data Models, EDA
 
 
 
@@ -38,6 +44,7 @@ Other Skills: ETL, Data Models, EDA
 # Let's Connect!
 
 
-📧 Email: ankitsengar1509@gmail.com
+📧 Email: 
+ankitsengar1509@gmail.com
 💼 LinkedIn
 🖥️ GitHub
