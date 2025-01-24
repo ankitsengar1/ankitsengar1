@@ -10,6 +10,7 @@ SQL, Python, Pandas, Power BI, MySQL, Streamlit.
 
 
 
+
 About Me
 🎓 Education: MCA from Sinhgad Institute of Business Administration and Research, Pune
 🔍 A dynamic Data Analyst skilled in SQL and Python with a knack for creating insightful visualizations and dashboards.
