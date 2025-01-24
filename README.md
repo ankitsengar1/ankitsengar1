@@ -27,8 +27,11 @@ Bundelkhand University ,Jhansi
 # My Tech Stack:
 
 Languages: Python, SQL
+
 Libraries/Tools:Pandas, NumPy, Seaborn, Matplotlib, Streamlit
+
 Visualization: Power BI, Excel
+
 Other Skills:ETL, Data Models, EDA
 
 
