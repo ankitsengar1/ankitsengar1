@@ -1,11 +1,11 @@
-# Hi there, I'm Ankit Sengar! 👋
+#                                                                                                                  Hi there, I'm Ankit Sengar! 👋
 
 
 
 
-🎯 Aspiring Data Analyst | 📊 Passionate about Data Insights and Visualization
-💡 Tech Stack:
-SQL, Python, Pandas, Power BI, MySQL, Streamlit.
+ 🚀 Data Analyst | 🌟  Aspiring Data Analyst | 📊 Passionate about Data Insights and Visualization
+ 
+ 💻Tech Stack: SQL, Python, Pandas, Power BI, MySQL, Streamlit.
 
 
 
@@ -24,7 +24,7 @@ Bundelkhand University ,Jhansi
 
 
 
-# My Tech Stack:
+# 💡  My Tech Stack:
 
 Languages: Python, SQL
 
