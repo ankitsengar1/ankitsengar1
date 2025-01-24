@@ -1,5 +1,4 @@
-
-Hi there, I'm Ankit Sengar! 👋
+# Hi there, I'm Ankit Sengar! 👋
 
 
 
@@ -11,7 +10,7 @@ SQL, Python, Pandas, Power BI, MySQL, Streamlit.
 
 
 
-About Me:
+# About Me:
 🎓 Education: MCA from Sinhgad Institute of Business Administration and Research, Pune
 🔍 A dynamic Data Analyst skilled in SQL and Python with a knack for creating insightful visualizations and dashboards.
 🤖 Experienced in leveraging Generative AI and quickly adapting to new technologies to drive impactful business strategies.
@@ -19,7 +18,7 @@ About Me:
 
 
 
-My Tech Stack:
+# My Tech Stack:
 
 Languages: Python, SQL
 Libraries/Tools: Pandas, NumPy, Seaborn, Matplotlib, Streamlit
@@ -28,7 +27,7 @@ Other Skills: ETL, Data Models, EDA
 
 
 
-Certifications:
+# Certifications:
 
 📜 Power BI with Excel – LinkedIn
 📜 Data Analysis – Microsoft & LinkedIn
@@ -36,7 +35,7 @@ Certifications:
 
 
 
-Let's Connect!
+# Let's Connect!
 
 
 📧 Email: ankitsengar1509@gmail.com
