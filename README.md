@@ -50,4 +50,4 @@ Other Skills:ETL, Data Models, EDA
 📧 Email: 
 ankitsengar1509@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/ankit-sengar-1554901b1/)
-🖥️ GitHub
+🖥️ [GitHub](https://github.com/ankitsengar1)
