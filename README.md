@@ -38,9 +38,9 @@ Other Skills:ETL, Data Models, EDA
 
 # Certifications:
 
-📜 Power BI with Excel – LinkedIn
-📜 Data Analysis – Microsoft & LinkedIn
-📜 Power BI Specialist – LinkedIn
+📜 [Power BI with Excel – LinkedIn](https://drive.google.com/file/d/1d-ffnCkSvDlWd2-z2XuHIKoOvLAilgc8/view)
+📜 [Data Analysis – Microsoft & LinkedIn](https://drive.google.com/file/d/1v1_CaJfoRMcrzpPiCtjR6G5rsLeeDGHD/view)
+📜[ Power BI Specialist – LinkedIn](https://drive.google.com/file/d/1bW2mvBQSwRMbNrUZ-VchxeLd5A1j-F_U/view)
 
 
 
