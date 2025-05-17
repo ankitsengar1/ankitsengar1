@@ -3,7 +3,7 @@
 
 
 
- 🚀 Data Analyst | 🌟  Aspiring Data Analyst | 📊 Passionate about Data Insights and Visualization
+| 📊 💼 Data Scientist @ EasyRewardz | 🔍 Passionate about Data Automation, Insights, and Visualization | 📊 Turning raw data into impactful stories
  
  💻Tech Stack: SQL, Python, Pandas, Power BI, MySQL, Streamlit.
 
@@ -18,9 +18,9 @@ MCA from Sinhgad Institute of Business Administration and Research, Pune
 B Sc from 
 Bundelkhand University ,Jhansi
 
-🔍 A dynamic Data Analyst skilled in SQL and Python with a knack for creating insightful visualizations and dashboards.
-🤖 Experienced in leveraging Generative AI and quickly adapting to new technologies to drive impactful business strategies.
-🌟 Strong problem-solving and communication skills, fostering collaboration across teams.
+🔍 A dynamic Data Scientist skilled in Python and SQL, passionate about uncovering insights through data modeling, machine learning, and impactful visualizations.
+🤖 Experienced in leveraging Generative AI and advanced analytics, with a strong ability to adapt to emerging technologies to drive data-driven business strategies quickly.
+🌟 Excellent problem-solving and communication skills, fostering collaboration across cross-functional teams to deliver actionable outcomes.
 
 
 
@@ -28,7 +28,7 @@ Bundelkhand University ,Jhansi
 
 Languages: Python, SQL
 
-Libraries/Tools:Pandas, NumPy, Seaborn, Matplotlib, Streamlit
+Libraries/Tools:Pandas, NumPy,Python PPTX, Seaborn, Matplotlib, Streamlit
 
 Visualization: Power BI, Excel
 
